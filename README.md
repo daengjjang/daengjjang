@@ -21,7 +21,7 @@
 **읽기 좋은 코드가 좋은 코드다** - 더스틴 보즈웰, 트레버 파우커
 
 ***친절한 SQL 튜닝 - 조시형***
-### 다음에 읽은 책이예요!
+### 다음에 읽을 책이에요!
 **객체지향의 사실과 오해** - 조영호
 
 **도커 교과서** - 엘튼 스톤맨
@@ -42,18 +42,18 @@
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=&logo=javascript&logoColor=#F7DF1E)
 ![microsoftsqlserver](https://img.shields.io/badge/microsoftsqlserver-CC2927?style=&logo=microsoftsqlserver&logoColor=#CC2927)
 
-### 해봤거나 학습중이예요!
+### 해봤거나 학습 중이에요!
 ![rust](https://img.shields.io/badge/rust-000000?style=&logo=rust&logoColor=#000000)
 ![cplusplus](https://img.shields.io/badge/cplusplus-00599C?style=&logo=cplusplus&logoColor=#00599C)
 ![redis](https://img.shields.io/badge/redis-DC382D?style=&logo=redis&logoColor=#DC382D)
 ![postgresql](https://img.shields.io/badge/postgresql-4169E1?style=&logo=postgresql&logoColor=#4169E1)
 
-### 해보고싶어요!
+### 해보고 싶어요!
 ![nodedotjs](https://img.shields.io/badge/nodedotjs-339933?style=&logo=nodedotjs&logoColor=#339933)
 ![flutter](https://img.shields.io/badge/flutter-02569B?style=&logo=flutter&logoColor=#02569B)
 ![go](https://img.shields.io/badge/go-00ADD8?style=&logo=go&logoColor=#00ADD8)
 
-### 이런걸 사용합니다!
+### 이런 걸 사용합니다!
 ![visualstudio](https://img.shields.io/badge/visualstudio-5C2D91?style=&logo=visualstudio&logoColor=#5C2D91)
 ![visualstudiocode](https://img.shields.io/badge/visualstudiocode-007ACC?style=&logo=visualstudiocode&logoColor=#007ACC)
 ![rider](https://img.shields.io/badge/rider-000000?style=&logo=rider&logoColor=#000000)
@@ -62,7 +62,7 @@
 ![intellijidea](https://img.shields.io/badge/intellijidea-000000?style=&logo=intellijidea&logoColor=#000000)
 **,SSMS, dotTrace**
 
-**버전은 전부 최신버전 이용중입니다** 
+**버전은 전부 최신 버전 이용 중입니다**
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dangjjang)](https://github.com/dangjjang/github-readme-stats)
