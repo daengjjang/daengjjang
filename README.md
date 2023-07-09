@@ -1,6 +1,6 @@
 <div align="center">
   
-![dangjjang](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Dangjjang%20Github&fontSize=90)
+![dangjjang](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Daengjjang%20Github&fontSize=90)
 
 안녕하세요. Language-Integrated Query (LINQ)에 빠져 C# 백엔드 개발을 하고 있는 박세원 입니다.
 
