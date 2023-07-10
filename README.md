@@ -65,7 +65,7 @@
 **버전은 전부 최신 버전 이용 중입니다**
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dangjjang)](https://github.com/dangjjang/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daengjjang)](https://github.com/daengjjang/github-readme-stats)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzange100)](https://solved.ac/zzange100)
 
 </div>
